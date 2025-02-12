@@ -337,12 +337,11 @@ footer aside p {
         height: 800px;
     }
     main article#featured-item div.feature-3 {
-        position: absolute;
+       
         left: 50%;
         right: 50%;
-        width: 600px;
-        transform: translate(-50%, -50%);
-        bottom: 0px;
+        width: 500px;
+        margin: auto 0px;
     }
     main article#featured-item div.feature-4  {
         left: 50%;
